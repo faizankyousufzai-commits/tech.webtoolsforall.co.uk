@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tech.webtoolsforall.co.uk/sitemap.xml
+Sitemap: https://tech.webtoolsforfree.co.uk/sitemap.xml
